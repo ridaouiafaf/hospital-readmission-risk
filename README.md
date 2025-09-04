@@ -15,8 +15,9 @@ The goal is to build a pipeline that:
 
 ## Why This Project
 
-- Hospital readmissions are a key quality metric in healthcare. Early prediction can help allocate resources, improve patient follow-up, and reduce costs.
-- This project is also a step-up from my previous work on the Heart Disease dataset:
+Hospital readmissions are a key quality metric in healthcare. Early prediction can help allocate resources, improve patient follow-up, and reduce costs.
+
+This project is also a step-up from my previous work on the Heart Disease dataset:
  - More complex dataset (higher dimensionality, multiple categorical features)
 
  - Stronger focus on class imbalance and data leakage prevention
